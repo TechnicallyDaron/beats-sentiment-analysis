@@ -31,6 +31,13 @@ This project analyzes customer sentiment toward wireless speakers by scraping an
 - Negative reviews often mentioned **connectivity issues** and **battery life**  
 - Identified top keywords from positive/negative sentiments to help with product positioning
 
+## 📈 Interactive Dashboard (Claude)
+
+You can explore the interactive dashboard created for this project here:  
+🔗 [Beats Sentiment Analysis Dashboard (Claude)](https://claude.site/artifacts/b37fc175-d897-4612-b84d-7080c066fee8)
+
+This dashboard was built using Claude and visualizes survey findings, product insights, and customer sentiment in a clean format for business stakeholders.
+
 ---
 
 ## 💻 How to Run
