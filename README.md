@@ -1,4 +1,4 @@
-# 🗂️ Sentiment Analysis of Amazon Speaker Reviews
+# 🗂️ Sentiment Analysis of Beat Speaker Reviews
 
 ## 🔍 Overview  
 This project analyzes customer sentiment toward wireless speakers by scraping and processing Amazon reviews. Using Python libraries like **Pandas**, **NumPy**, and **TextBlob**, the goal was to extract insights into what customers love (or don’t love) about the product — helping brands like Beats by Dre better understand their audience.
